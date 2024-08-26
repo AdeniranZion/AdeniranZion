@@ -43,7 +43,7 @@ Passionate PHP Developer with expertise in building scalable and robust web appl
  
 ## 📂 Popular Repositories
 
-- [**RC-Academy**](https://github.com/yourusername/RC-Academy)  
+- [**RC-Academy**](https://github.com/AdeniranZion/RC-Academy)  
   *CSS, PHP*  
   The official website for the Royal Coast Academy, built with modern web development practices.
   Technologies: PHP, MySQL, Bootstrap
