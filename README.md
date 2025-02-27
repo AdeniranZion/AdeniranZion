@@ -48,10 +48,10 @@ Passionate PHP Developer with expertise in building scalable and robust web appl
   The official website for the Royal Coast Academy, built with modern web development practices.
   Technologies: PHP, MySQL, Bootstrap
 
-  - [**kudiBase**](https://github.com/AdeniranZion/kudiBase)  
-  Laravel, PHP*  
-  Kudibase is a user-friendly currency converter app designed to simplify the process of converting currencies on the go.
-  It provides real-time exchange rates, ensuring users have the most up-to-date information for accurate conversions. 
+- [**kudiBase**](https://github.com/AdeniranZion/kudiBase)  
+Laravel, PHP*  
+Kudibase is a user-friendly currency converter app designed to simplify the process of converting currencies on the go.
+It provides real-time exchange rates, ensuring users have the most up-to-date information for accurate conversions. 
 
 ## 🔗 Connect with Me:
 
